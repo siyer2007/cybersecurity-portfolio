@@ -4,21 +4,20 @@ Objective
 The goal of this activity is to observe and analyse security concepts used on campus.
 
 Method
-I walked around campus and identified security measures such as CCTV cameras, access card doors, and alarm systems.
+I walked around campus and identified security measures such as CCTV cameras and access card doors.
 
 Findings
 I discovered the following security implementations:
 1. CCTV cameras
-2. RFID access cards
-3. Security patrols
-4. Emergency phones
-5. Network login authentication
+2. Student access cards
+3. Human security guards
+4. Network login authentication to access Unifi
 
 Security Principle
 These systems support confidentiality, integrity, and availability.
 
 Evidence
-(Screenshots / photos)
+
 
 Reflection
 This activity helped me understand how security concepts are applied in real environments.
