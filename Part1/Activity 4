@@ -1,0 +1,20 @@
+Activity: A4 – Discover a vulnerable website
+
+Objective
+The goal of this activity was to identify potential vulnerabilities on a website by performing a security scan to detect open ports, running services, and known security issues.
+
+Method
+Using a Kali Linux virtual machine, I used the Nmap scanning tool to analyse the target website's server. I performed port scanning and service version detection to identify running services, then checked the vulnerability scripts for potential vulnerabilities associated with those services
+
+Findings
+The scan identified the following services and potential vulnerabilities:
+1. OpenSSH services (Port 22) - the server was running OpenSSH 7.4 which has known vulnerabilities that may allow attackers to perform username enumeration.
+2. Exim mail server (Ports 25, 26, 465, 587) - the mail server was running Exim 4.96.2 which has multiple known vulnerabilities if not updated.
+3. MariaDB database (Port 3306) - the database service was publicly accessible which may expose sensitive data if proper authentication and firewall protections are not enforced.
+4. FTP service (Port 21) - the FTP service was active which could potentially expose login credentials is insecure authentication methods are used.
+
+Security Principle
+This activity relates to the core security principles of confidentiality, integrity, and availability. Identifying vulnerable services helps protect sensitive data, prevent unauthorised system modifications, and maintain reliable system operations.
+
+Reflection
+This activity helped me understand how vulnerability scanning tools such as Nmap can be used to analyse websites and identify potential weaknesses. it demonstrated the importance of keeping services updated and restricting unnecessary external access to improve overall system security.
