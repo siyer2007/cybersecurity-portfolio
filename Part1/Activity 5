@@ -1,0 +1,22 @@
+Activity: A5 – Discover crytographic implementation used online
+
+Objective
+The goal of this activity is to identify and understand how cryptography is implemented in online systems to protect sensitive data and communications
+
+Method
+I visited several websites that require secure communication, such as online banking and login pages. i examined the browser security indicators, HTTPS and hte lock icon, and viewed the certificate information to understand the cryptographic protocols used to secure the connection.
+
+Findings
+I discovered the following cryptographic implemetnations used online:
+1. HTTPS encryption - websites use HTTPS to encrypt communication between the user's browser and the web server. this prevents attackers from intercepting sensitive information such as passwords or credit card details
+2. SSL/TLS protocols - secure websites use ssl/tls protocols to establish an encrypted connection and authenticate the identity of the server
+3. Digital certificates - websites use digital certificates issued by certificate authorities to verify the authenticity of the website and prevent impersonation attacks
+
+Security Principle
+These cryptographic techniques support confidentiality, integrity, and authentication. encyption protects the confidentiality of transmitted data, while certificates hep ensure the integrity and authenticity of the communication
+
+Evidence
+- photos in evidence folder
+
+Reflection
+This activity helped me understand how cryptography is used in everyday online interactions to secure communications. it also highlighted the importance of HTTP and trusted certificates in protecting users from attacks such as man-in-the-middle attacks.
