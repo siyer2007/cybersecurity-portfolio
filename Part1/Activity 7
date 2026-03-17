@@ -1,19 +1,22 @@
-Activity: A7 - Discover cryptography used in modern networks
+Activity: A8 - Discover cryptography used in Internet of Things devices
 
 Objective
-The goal of this activity was to investigate and identify cryptographic methods used in modern networks to protect data transmission
+The goal of this activity was to investigate and identify cryptographic methods used in LoT devices to secure data, authenticate users, and prevent unauthorised access
 
 Method
-I examined the security settings of my home WiFi network and network connected applications. I looked at the encryption protocols used and noted which protocols protect data as it travels across the network. I also checked VPN settings to see how they encrypt my connection when online.
+I examined the security settings of several IoT devices I own, including a smart thermostat, a smart door lock, and a smart speaker. I looked at how they protect
 
 Findings
-The investigation revealed the following cryptographic implementations:
-1. Wifi encryption - protects wireless communication between devices and the router
-2. VPN encryption - secures data traffic between my device and external servers
-3. HTTPS connections - websites use Transport Layer Security to encrypt data exchanged with my browser
+The IoT devices I analysed use the following cryptographic implementations:
+1. Wifi encryption - all the devices connect to the home network using WPA2 and WPA3 encryption, ensuring data transmitted overWiFi is secure
+2. Secure passwor storage - device apps require strong passwords which are stored in a hashed format using modern algorithms
+3. Two-factor authentication - some devices' companion apps support two factor authentication for an extra layer of authentication
 
 Security Principle
-These cryptographic implementations support confidentiality by ensuring data cannot be read by unauthorised parties, integrity by preventing tampering, and availability by maintaing secure connections for users.
+These cryptographic implementations support confidentiality, integrity, and authentication. they prevent unauthorised access, ensure transmitted data isn't tampered with, and verify the identity of users and devices.
+
+Evidence
+- photos in evidence folder
 
 Reflection
-This activity helped me understand how modern networks rely on cryptography to secure data in transit. it demonstrated the importance of using up-to-date encryption standards like WPA3 and TLS to protect personal and sensitive information
+This activity helped me understand that even small IoT devices use modern cryptography to protect users. it showed the importance of secure communications and authentication in connected devices, and how these principles apply beyond traditional computers and phones
