@@ -1,1 +1,23 @@
+Activity: A6 – Discover cryptographic implementation used offline
 
+Objective
+The goal of this activity was to investigate and identify cryptographic methods used offline on devices to secure personal data and control access
+
+Method
+I examined security features on my personal devices, such as laptops, smartphones, and external storage. this included password protection, pin codes, fingerprint and face recognition, and encrypted storage.
+
+Findings
+The following offline cryptographic implementations were observed:
+1. Device passwords and PINs - required to unlock computers and smartphones, protecting personal data from unauhtorised access.
+2. Biometric authentication - fingerprint and face recognition provide cryptographic verification to secure devices without needing an online connection
+3. Encrypted storage = latops, phones, and USB drives can encrypt files to prevent unauthorised access even if the device is lost
+4. Password-protected documents - files on devices can be encrypted individually to add an extra layer of security
+
+Security Principle
+These methods support confidentiality, integrity, and availability.
+
+Evidence
+- check in evidence folder
+
+Reflection
+This activity helped me understand that cryptography isn't just for online systems, but also for offline devices that rely on encryption, passwords, and biometric authentication to keep personal data safe and secure.
