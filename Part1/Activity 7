@@ -1,0 +1,22 @@
+Activity: A7 - Discover cryptography used in modern networks
+
+Objective
+The goal of this activity was to investigate and identify cryptographic methods used in modern networks to protect data transmission
+
+Method
+I examined the security settings of my home WiFi network and network connected applications. I looked at the encryption protocols used and noted which protocols protect data as it travels across the network. I also checked VPN settings to see how they encrypt my connection when online.
+
+Findings
+The investigation revealed the following cryptographic implementations:
+1. Wifi encryption - protects wireless communication between devices and the router
+2. VPN encryption - secures data traffic between my device and external servers
+3. HTTPS connections - websites use Transport Layer Security to encrypt data exchanged with my browser
+
+Security Principle
+These cryptographic implementations support confidentiality by ensuring data cannot be read by unauthorised parties, integrity by preventing tampering, and availability by maintaining secure connections for users.
+
+Evidence
+- photos in evidence folder
+
+Reflection
+This activity helped me understand how modern networks rely on cryptography to secure data in transit. it demonstrated the importance of using up-to-date encryption standards like WPA3 and TLS to protect personal and sensitive information
