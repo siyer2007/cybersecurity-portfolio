@@ -1,0 +1,23 @@
+Activity: A10 - Discover privacy technique used offline
+
+Objective
+The goal of this activity was to investigate how privacy is maintained in offline environments without the use of the internet
+
+Method
+I observed how personal information is protected in everyday offline situations, such as handling documents, acccessing devices, and secure physical items
+
+Findings
+The following offline privacy techniques were observed:
+1. Device lock mechanisms - prevent unauthorised access to locally stored data on phones and laptops
+2. Disk encyption - encrypts all data on a device so it cannot be accessed without authentication, even if the device is stolen. eg. BitLocker
+3. Password-protected files - documents such as PDFs or Word files can be encrypted to restict access
+4. Local user accounts and permissions - operating systems restrict access to files based on user roles, ensuring only authorised users can view sensitive data
+
+Security Principle
+These techniques support confidentiality by protecting sensitive data from unauthorised access amd integrity by preventing unauthorised modifications to files
+
+Evidence
+- photos in evidence folder
+
+Reflection
+This activity helped me understand that privacy in cybersecurity is not limited to online systems. offline protections like disk encrypt, authentication, and file permissions are critical in securing sensitive data stored on devices
