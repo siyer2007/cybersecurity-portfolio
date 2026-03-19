@@ -1,0 +1,24 @@
+Activity: A12 - Discover 5 unique offline security tools
+
+Objective
+The goal of this activity was to identify security tools that operate without an internet connection and are used to protect systems, devices, and data
+
+Method
+I observed tools available on local devices and in physical environments that provide security without requiring online connectivity. these included software-based tools and hardware security mechanisms.
+
+Findings
+The following offline security tools were identified:
+1. Antivirus software - detects and removes malware using locally stored virus definitions without needing internet access
+2. Disk encryption tools - encrypts data on a device to prevent unauthorised access
+3. Password managers - stores and encrypts passwods locally on a device
+4. USB drive encryption tools - protects data stored on external drives with encryption
+5. Hardware security tokens - provides secure authentication without needing network access 
+
+Security Principle
+These tools support confidentiality by protecting sensitive data and integrity by preventing unauthorised changes. they also contribute to availability by ensuring secure access to systems even without internet connectivity
+
+Evidence
+- photos in evidence folder
+
+Reflection
+This activity helped me understand that effective cybersecurity does not always depend on internet-based tools. offline security tools play a crucial role in protecting data at rest and securing devices in isolated environments.
