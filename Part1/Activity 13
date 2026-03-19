@@ -1,1 +1,24 @@
+Activity: A13 - Discover 5 unique online security tools
 
+Objective
+The goal of this activity was to identify security tools that operate online to protect systems, networks, and user data from cyber threats.
+
+Method
+I explored various online platforms and tools that providesecurity srevices such as malware scanning, vulnerability detection, and secure communication. i observed how these tools function and what type of protection they offer
+
+Findings
+The following online security tools were identified:
+1. VirusTotal - allows users to upload files or URLs to scan for malware using multiple antivirus engines
+2. Cloudfare - provides protection against DDoS attacks and improves website security through filtering and monitoring traffic
+3. Have I Been Pwned - checks if an email or password has been exposed in known data breaches
+4. Qualys SSL Labs - analyses website SSL/TLS configurations to identify security weaknesses
+5. Cisco Umbrella - protects users by blocking access to malicious domains at the DNS level
+
+Security Principle
+These tools support confidentiality, integrity, and availability by detecting threats, preventing unauthorised access, and ensuring secure communication over the internet
+
+Evidence
+- photos in evidence folder
+
+Reflection
+This activity helped me understand the importance of online security tools in protecting users and systems from evolving cyber threats. it demonstrated how cloud-based platforms can provide real-time protection and analysis
