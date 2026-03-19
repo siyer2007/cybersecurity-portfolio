@@ -1,1 +1,24 @@
+Activity: A14 - Discover 5 AI-enabled security solutions
 
+Objective
+The goal of this activity was to identify modern security solutions that use artificial intelligence to detect, prevent, and respond to cyber threats
+
+Method
+I researched current cybersecurity tools and platforma that incorporate AI and machine learning to analyse threats, detect unusual behaviour, and automate security responses.
+
+Findings
+The following AI-enabled security solutions were identified:
+1. Darktrace - uses AI to detect abnormal network behaviour and respond to threats in real time
+2. CrowdStrike Falcon - uses machine learning to identify malware and advanced cyberattacks on devices
+3. Microsoft Defender for Endpoint - uses AI to detect threats, analyse behaviour, and protect systems from attacks
+4. IBM QRadar - uses AI to analyse logs and detect potential security incidents
+5. Google Chronicle - uses AI to analyse large-scale security data and detect threats quickly
+
+Security Principle
+These solutions support confidentiality, integrity, and availability by detecting threats early, preventing unauthorised access, and ensuring systems reamin secure and operational
+
+Evidence
+- photos in evidence folder
+
+Reflection
+This activity helped me understand how AI is transforming cybersecurity by enabling faster and more accurate threat detection. it showed how machine learning can analyse large amount of data to identify patterns that humans may miss.
