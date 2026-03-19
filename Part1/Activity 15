@@ -1,1 +1,24 @@
+Activity: A15 - Discover 5 recent security incidents
 
+Objective
+The goal of this activity was to investigate recent cybersecurity incidents to understand how attacks occur and their impacr on organisations and individuals
+
+Method
+I reasearched recent cybersecurity news and reports from 2025-2026, focusing on major data breaches, ransomware attacks, and vulnerabilities affecting organisations and users
+
+Findings
+The following recent security incidents were identified:
+1. Telus data breach - hackers claimed to have stolen large amounts of sensitive data, including personal and corporate information, highlighting risks of unauthorised system access.
+2. iOS 18 "DarkSword" exploit - a major vulnerability allowed attackers to access user data such as messages and files through malicious links, affecting millions of devices
+3. Fortinet firewall vulnerablities - critical flaws in FortiGate firewalls allowed attackers to gain unauthorised access and steal credentials
+4. Qantas data breach - millions of customer records were exposed, including personal and travel information, demonstrating risks of third-party system compromise
+5. Jaguar Land Rover ransomware attack - a cyberattack disrupted production and supply chains, showing how attacks can impact business operations on a large scale
+
+Security Principle
+These incidents highlight the importance of confidentiality, integrity, and availability. data breaches compromise confidentiality, ransomware affects availability, and system vulnerabilities can impact integrity
+
+Evidence
+- photos in evidence folder
+
+Reflection
+This activity helped me understand the real-world impact of cybersecurity incidents. it showed that attacks can affect both individuals and large organisations, and highlighted the importance of strong security practices such as regular updates, access control, and vulnerability management
