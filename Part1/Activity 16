@@ -1,1 +1,22 @@
+Activity: A16 - Discover 3 local security incidents
 
+Objective
+The goal of this activity was to research and identify recent cybersecurty incidents that occurred in Australia to understand real=world threats and their impact.
+
+Method
+I researched recent Australian cybersecurity incidents using online news sources and cybersecurity repots to identify major breaches affecting organisations and individuals.
+
+Findings
+The following local security incidents were identified:
+1. Optus data breach - personal data of millions of customers was exposed, including names, addresses, and identification documents. the breach occurred due to an unsecured API.
+2. Medibacnk cyberattack - hackers accessed sensitive health and personal data of customers. the attackers demanded a ransom, and when it was not paid, the data was leaked online
+3. Latitude financial data breach - millions of customer records were stolen, including driver's licence and passport details, due to compromised employee credentials.
+
+Security Principle
+These incidents highlight the importance of confidentiality, integrity, and availability. protecting sensitive user data, prventing unauthorised access, and maintainingsecure systems are critical in mdoern cybersecurity.
+
+Evidence
+- photos in evidence folder
+
+Reflection
+This activity showed how serious cybersecurity incidents can affect large organisations and millions of people. it helped me understand the real-world consequences of poor security practices and reinforced the importance of strong protection measuressuch as secure APIs, multi-factor authentication, and proper data handling
