@@ -1,1 +1,21 @@
+Activity: A18 - Discover two hallucination cases when using a generative AI system
 
+Objective
+The goal of this activity was to identify examples of hallucinations from generative AI systems - situations where the AI produces information that it plausible-looking but factually incorrect or fabricated
+
+Method
+I interacted with generative AI models and reviewed documented axamples in articles and research about hallucination behaviour. i analysed instances where the AI provided confidently stated information that was either incorrect, fabricated, or unverifiable.
+
+Findings
+The following hallucination cases were identified:
+1. Fabricated citations or sources: when asked to provide specific references for a topic, the AI generated plausible-looking citations that do not actually exist in real academic databases. although the format of the citations appeared authentic, they were entirely made-up
+2. Incorrect factual answer with confidence: when asked to give the release date of a specific software version, the AI provided a precise release date and patch details that were not correct according to the official vendor documentation. the model confidently stated specifics that sounded convincing but were inaccurate
+
+Security Principle
+Understanding hallucinations in AI systems supports integrity and reliability in cybersecurity contexts. Detecting and mitigating hallucinations is crucial when using AI for threat analysis, incident reporting, or generating defensive code because inaccurate outputs can introduce vulnerabilities or mislead responders.
+
+Evidence
+- photos in evidence folder
+
+Reflection
+This activity helped me understand that generative AI systems can produce outputs that are technically coherent but factually wrong. Recognising hallucinations is an important skill, especially in cybersecurity, where decisions based on incorrect AI answers could lead to misconfiguration, misunderstanding of threats, or improper remediation steps.
