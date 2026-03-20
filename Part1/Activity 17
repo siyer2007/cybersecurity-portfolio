@@ -1,0 +1,29 @@
+Activity: A17 - Discover 10 different types of locks in use
+
+Objective
+The goal of this activity was to identify and analyse different types of locks used to secure physical and digital assets in everyday environments.
+
+Method
+I observed locks used at home, school, and public places and also researched different locking mechanisms to understand how they function and where they are commonly used.
+
+Findings
+The following types of locks were identified:
+1. Password/PIN lock - traditional device login method
+2. Biometric lock - uses unique biological traits
+3. Two-factor authentication codes - adds extra step using devices or apps
+4. Hardware token / key fob - generates one-time passwords for secure logins
+5. Smart lock - controlled digitally, often with encryption
+6. Keycard / RFID access - digital card access for restricted areas
+7. magnetic lock integrated with network systems - access controlled via digital credentials 
+8. Encryption USB drive / secure storage device - requires authentication to access sensitive files
+9. Secure software vault / password manager - digital "lock" to manage credentials safety
+10. Screen lock timeout / auto-lock feature - automatically locks devices after inactivty to prevent unauthorised access
+
+Security Principle
+These digital locks demonstrate authentication and access control, which are essential for confidentiality and integrity of data in cybersecurity
+
+Evidence
+- photos in evidence folder
+
+Reflection
+This activity helped me realise that access control is more than just a physical lock - in cybersecurity, the principle of "who can access what" is applied everywhere, from your phone to cloud storage to smart school systems. understanding these mechanisms is key to protecting sensitive digital assets
