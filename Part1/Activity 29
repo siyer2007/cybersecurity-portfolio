@@ -1,0 +1,21 @@
+Activity: A29 - Find a publicly available AI-generated image, video, or audio clip, use at least one detection or verification tool to analyse it
+
+Objective
+The goal of this activity was to identify and analyse an AI-generated image using detection tools to verify its authenticity.
+
+Method
+I selected an AI-generated image of a cat in space wearing an astronaut suit. Then, I used an online detection tool (such as AI Image Detector or Hive Moderation) to examine the image. I checked for visual artefacts, metadata inconsistencies, and other indicators that the content was synthetically created.
+
+Findings
+1. The image showed subtle inconsistencies in textures and shapes, particularly in areas like the cat’s suit edges and the background stars.
+2. Metadata analysis suggested synthetic creation due to missing or unusual camera information.
+3. The detection tool returned a high probability that the image was AI-generated, confirming suspicions based on visual inspection.
+
+Security Principle
+This activity relates to integrity, as detecting AI-generated content helps prevent misinformation, impersonation, and manipulation online.
+
+Evidence
+- photos in evidence folder
+
+Reflection
+This activity helped me understand how convincing AI-generated images can be and the importance of using verification tools. Recognising synthetic content is crucial in cybersecurity to prevent the spread of misinformation and maintain trust in digital media.
