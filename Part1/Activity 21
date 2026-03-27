@@ -1,0 +1,19 @@
+Activity: A21 – Participate in an online cybersecurity discussion
+
+Objective
+The goal of this activity was to engage with the cybersecurity community online and contribute to discussions about current threats and defensive strategies.
+
+Method
+I participated in an online discussion on a cybersecurity forum where professionals were sharing experiences and strategies regarding prompt injection attacks in generative AI systems. I read through the discussion threads, researched relevant concepts, and replied with my thoughts.
+
+Findings
+In my reply, I highlighted that validating and sanitizing input documents before feeding them to AI models is crucial, and mentioned approaches like sandboxed processing layers and metadata filtering to reduce risks. The discussion helped me understand real-world challenges in securing AI systems against prompt injection attacks.
+
+Security Principle
+This activity relates to the security principles of integrity and confidentiality. Ensuring AI systems are protected against malicious inputs maintains the reliability of outputs and prevents potential exploitation of sensitive data.
+
+Evidence
+- screenshot of my comment in the forum
+
+Reflection
+This activity helped me see how cybersecurity concepts are applied in online communities and how professionals tackle emerging threats. Contributing to discussions improved my understanding of prompt injection risks and mitigation strategies in AI security.
