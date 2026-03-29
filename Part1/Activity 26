@@ -1,0 +1,21 @@
+Activity: A26 – Research and implement a system bug
+
+Objective
+The goal of this activity was to understand how system bugs can affect software behaviour and security.
+
+Method
+I researched a simple system bug related to software input handling. I demonstrated this by creating a basic example where incorrect input (such as unexpected characters or invalid values) caused errors or unexpected behaviour in a system.
+
+Findings
+- Systems can behave unexpectedly when given invalid or unvalidated input.
+- Bugs can lead to crashes or incorrect outputs.
+- Proper input validation is important to prevent such issues.
+
+Security Principle
+This activity relates to integrity and availability, as bugs can cause incorrect system behaviour or system failures.
+
+Evidence
+- photo in evidence folder
+
+Reflection
+This activity helped me understand how small bugs can impact system reliability and security. It reinforced the importance of proper input validation.
