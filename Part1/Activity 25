@@ -1,0 +1,21 @@
+Activity: A25 – Design and implement a privacy-presing technique
+
+Objective
+The goal of this activity was to design a simple privacy-preserving technique to protect sensitive user information.
+
+Method
+I designed a data masking technique to hide sensitive information such as email addresses and phone numbers. I demonstrated this by modifying sample data to partially hide personal details while still keeping it usable.
+
+Findings
+- Sensitive information can be protected by masking parts of the data.
+- This reduces the risk of exposing personal details to unauthorised users.
+- The technique maintains usability while improving privacy.
+
+Security Principle
+This activity supports confidentiality by ensuring that sensitive data is not fully exposed.
+
+Evidence
+photo in evidence folder
+
+Reflection
+This activity showed that simple techniques like data masking can effectively improve privacy without complex implementation.
