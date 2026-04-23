@@ -1,0 +1,27 @@
+B1 - Discover weak security implementation
+
+Objective
+the goal of this activity is to identify weak security practices in real-world systems.
+
+Method
+i observed common digital systems, campus infrastructure, and real-world security practices to identify vulnerabilities
+
+Findings
+1. password-only authentication systems - many systems rely only on usernames and passwords without multi-factor authentication, increasing the risk of account compromise
+2. HTTP websites without encryption - some websites still use HTTP instead of HTTPS, meaning data transmitted can potentially be intercepted
+3. single-factor physical access cards - campus access control systems relying only on swipe cards can be compromised if the card is lost or stolen
+4. outdated software versions - some systems or applications may not be regularly updated, leaving known vulnerabilities unpatched
+5. public wifi security weaknesses - public or campus wifi networks can expose users to interception risks if proper encryption or safeguards are not enforced
+
+Security principle
+these weaknesses impact core cybsersecurity principles including:
+- confidentiality (data exposure risks)
+- authentication (weak user verification)
+- integrity (risk of data tampering)
+- access control (unauthorised entry risks)
+
+Evidence
+- in evidence folder
+
+Reflection
+this activity highlighted how common security weaknesses still exist in everyday systems. it helped me understand how even simple vuilnerabilities, such as weak authentication or lack of encryption, can significantly increase security risks. it also reinforced the importance of layered security controls such as MFA, encryption, adn regular system updates.
