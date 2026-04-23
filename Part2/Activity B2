@@ -1,0 +1,27 @@
+B2 - Discover 5 strong security implementations
+
+Objective
+the goal of this activity is to identify strong security practices in real-world systems.
+
+Method
+i observed campus systems, online services, and common security technologies to identify strong security implementations
+
+Findings
+1. multi-factor authentication - many systems require an additional verification step beyond a password, improving account security
+2. HTTPS encryption - secure websites use HTTPs to encrypt data in transit, protecting sensitive information from interception
+3. role-based access control - users are given different access levels based on their role, lmiting unnecessaary access
+4. biometric authentication - some devices and systems use fingerprint or face recognition, strengthening identity verification
+5. CCTV surveillance systems - physical security monitoring helps deter threats and provides evidence for investigations
+
+Security principle
+these implementations strengthen core cybersecurity principles:
+- confidentiality (encryption, access control)
+- integrity (secure data transmission)
+- authentication (MFA, biometrics)
+- accountability (CCTV monitoring)
+
+Evidence
+- in evidence folder
+
+Reflection
+this activity demonstrated how strong security systems use multiple layers of protection rather than relying on a single control. features such as multi-factor authentication, eencryption, and role-based access significantly reduce the risk of unauthorised access and improve overall system security.
