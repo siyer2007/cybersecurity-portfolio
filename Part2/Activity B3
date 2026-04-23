@@ -1,0 +1,25 @@
+Activity: B3 – Discover 3 proactive security implementations in practice
+
+Objective
+the goal of this activity is to identify proactive security measures that prevent security incidents before they occur
+
+Method
+i observed campus systems and common cybersecurity technologies to identify proactive security implementations used in practice
+
+Findings
+1. automatic software updates - many systems automatically install security patches to fix vulnerabilities before they can be exploited
+2. intrusion detection and prevention systems - network security systems monitor traffic in real time and block suspicious activity before damage occurs
+account lockout mechanisms - systems temporarily lock account after multiple failed login attempts to prevent brute-force attacks
+
+Security principle
+these implementations support proactive defence by:
+- preventing unauthorised access before it occurs
+- reducing attack surface through timely updates
+- detecting and stopping suspicious behaviour early
+- they strengthen confidentiality, integrity, and system availability
+
+Evidence
+- in evidence folder
+
+Reflection
+this activity showed that modern cybersecurity is not just reactive but proactive. systems are designed to prevent attacks before they happen through monitoring and enforced security policies. features like automatic updates and account lockouts significantly reduce the likelihood of successful cyberattacks
