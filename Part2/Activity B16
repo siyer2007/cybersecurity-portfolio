@@ -1,0 +1,32 @@
+B16 - Survey the current-state-of-the-art solutions in cybersecurity
+
+Objective
+the goal of this activity was to research and understand current state-of-the-art cybersecurity solutions used to protect systems and data
+
+Method
+i reviewed modern cybersecurity practices used by organisations, cloud platforms, and widely adopted technologies. i focused on solutions that address current threats such as data breaches, phishing, and unauthorised access
+
+Findings
+1. extended detection and response (XDR) - XDR integrates multiple security tools into a single system, allowing organisations to detect and respnd to threats more efficiently across all environments
+2. cloud security posture managements (CPSM) - CPSM tools automatically monitor cloud environments to identify misconfigurations and security risks, helping organisations maintain secure cloud infrastructure
+3. end-to-end encryption (E2EE) - modern communication platforms use strong encryption to ensure that only intended users can access data, protecting confidentiality even if data is intercepted
+4. artificial intelligence in threat detection - ai-based systems analyse large amounts of data to detect unusual behaviour and potential cyberattacks in real time, improving detection speed and accuracy
+5. security information and event management (SIEM) - SIEM systems collect and analyse security data from multiple sources to detect and respond to threats across an organisation
+6. endpoint detection and response (EDR) - EDR tools monitor devices for suspicious activity and provide automated responses to contain threats
+
+Security principles
+the identified state-of-the-art solution multiple core cybersecurity principles:
+- confidentiality: ensured throughout technologies like end-to-end encryption, which protects sensitive data from unauthorised access
+- integrity: maintained through monitoring systems such as SIEM and XDR that detect and prevent unauthorised data modification
+- availability: supported by rapid threat detection and response systems, reducing system downtime during attacks
+- authentication and acceess control: enhanced through controlled access mechanisms within cloud environments and endpoint security systems
+- accountability: aheived through logging and monitoring features in SIEM systems, enabling traceability of user and system actions
+
+Outcome
+this activity provided a deeper understanding of how modern cybersecurioty solutions operate across different environments such as cloud systems, networks, and endpoints. it demonstrate4d that current security approaches rely on integration and automation rather than standalone tools. the analysis also showed how organisations can detect, respond to, and prevent attacks more effectively using these advanced technologies.
+
+Reflection
+this activity highlighted the shift from traditional security methods to more advanced, integrated solutions. i learned that modern cybersecurity is not based on a single defence mechanism but a combination of tehcnologies working together to provide comprehensive protection. it also reinforced the importance of continuous monitoring and real-time resopnse in defending against evolving cyber threats. additionally, i developed a better understanding of how cloud and ai-based security solutions are becoming essential in today's digital environment
+
+Evidence
+- photos in evidence folder
