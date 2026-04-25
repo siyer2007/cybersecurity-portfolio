@@ -1,0 +1,26 @@
+B27 - Apply a learned cybersecurity concept to a real-world application/problem/environment
+
+Objective 
+the goal of this activity was to apply cybersecurity concepts learned in this unit to a real-world environment in order to identify risks and purpose practical security improvements
+
+Method
+i analysed a real-world environment, including campus systems and everyday digital platforms. i applied cybersecurity concepts such as authentication, encryption, and access control to identify weaknesses and suggest improvements
+
+Application of concepts
+1. weak authentication - implement multi-factor auithentication: many systems rely only on passwords, i applied the concept of MFA to improve security by adding an additional layer of protection
+2. unsecured communication - use HTTPS and encryption: i dentified risks in systems using HTTP and applied the concept of encryption by recommending HTTPS with TLS to protect data in transit
+3. poor access control - role-based access control: i applied RBAC principles to ensure users only have access to resources relevant to their role, reducing the risk of unauhtorised access
+4. outdated systems - regular updates and patch management: i applied the copncept of vulnerability management by recommending regular software updates to fix known security issues
+5. public wifi risks - secure usage practices: i applied network security concepts by recommending avoiding sensitive activities on public wifi or using VPNs for secure connection
+
+Outcome
+by applying these concepts, i was able to identify realistic security risks and propose practical improvements that could significantly enhance system security in a real-world setting
+
+Reflection
+this activity helped me understand how theoretical cybersecurity concepts can be directly applied to real-world environments. it reinforced the importance of layered security approaches and showed how small improvements, such as enabling MFA or using encryption, can greatly reduce risk
+
+Evidence
+- analysis based real-world observations from campus systems and commonly used digital platforms
+- application of cybersecurity concepts learned in this unit
+- no direct system modifications were performed; this activity focuses on analysis and proposed improvements
+- personal notes and reflections documenting the application process
