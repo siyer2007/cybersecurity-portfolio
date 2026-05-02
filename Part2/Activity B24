@@ -1,0 +1,25 @@
+B24 - Design and implement access control of your choice
+
+Objective
+The goal of this activity was to design and implement an access control mechanism to restrict and manage user permission.
+
+Method
+I used a document-sharing platform to implement access control by restricting permissions for another user. The aim was to control access to the document and prevent unauthorised modifications.
+
+Implementation
+A Word document was created and shared with another user with view-only access. This ensured that the user could read the content but could not make any changes to the document.
+
+Evaluation
+Strengths:
+- prevents unauthorised editing or modification of the document
+- maintains data integrity by restricting write accesss
+- simple and effective access control mechanism
+Limitations:
+- does not prevent screenshots or sopying of content
+- requires correct configuration of sharing settings
+
+Outcome
+The implementation successfully restricted access to the document, ensuring tha tonly auhtorised viewing was allowed while preventing editing.
+
+Reflection
+This activity demonstrated how access control can be effectively implemented even in simple systems. It reinforced the importance of controlling user permissions to protect data from unauthorised changes.
