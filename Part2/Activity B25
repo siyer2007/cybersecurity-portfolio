@@ -1,0 +1,25 @@
+B25 - Design and implement a threat intelligence module
+
+Objective
+The goal of this activity was to deign a simple threat intelligence module to identify and document common cybersecurity threats.
+
+Method
+I created a structured threat intelligence log that outlines common cybersecurity threats, their impact, and mitigation strategies. The aim was to simulate how threat intelligence is used to track and respond to risks.
+
+Implementation
+A document was developed listing multiple cybersecurity threats such as phishing, credential stuffing, and malware. Each entry included a description, associated risk, and recommended mitigation strategies.
+
+Evaluation
+Strengths:
+- Helps identify and categorise common threats
+- Improves awareness of attack methods
+- Easy to update and expand
+Limitations:
+- Does not use real-time data sources
+- Basic implementation compared to industry tools
+
+Outcome
+The activity successfully demonstrated how threat intelligence can be structured to improve cybersecurity awareness and response planning.
+
+Reflection
+This activity helped me understand how cybersecurity professionals track and categorise threats. It reinforced the importance of staying aware of evolving attack methods and having mitigation strategies in place.
