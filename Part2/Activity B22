@@ -1,0 +1,26 @@
+B22 - Enhance the cybersecurity of a website from your community
+
+Objective
+The goal of this activity was to analyse a community-relevant website and identify potential cybersecurity improvements to enhance user safety and data protection.
+
+Method
+I selected the website realestate.com.au and evaluated its publicly visible security features based on common cybersecurity principles such as authentication, encryption, user data protection, and account security.
+
+Findings
+- The website uses HTTPS encryption, ensuring secure communication between users and platform.
+- User accounts are used for saved searches, enquiries, and property alerts, meaning personal data is stored and processed.
+- Login-based features indicate reliance on password-based authentication as the primary security method.
+- Limited visible enforcement of advanced authentication mechanisms such as mandatory multi-factor authentication.
+
+Recommended Improvements
+- Implement mandatory MFA for all user accounts to improve login security.
+- Strengthen password security policies, including detection of weak or previously breached passwords.
+- Improve session management, such as automatic logout after inactivity to reduce hijacking risks.
+- Enhance phishing awareness messaging, warning users about fake property listings or scam emails.
+- Provide clearer account security dashboards showing login hostory and device activity.
+
+Outcome
+The analysis identified several areas where the website could improve its cybersecurity posture, particularly around authentication strength and user account protection.
+
+Reflection
+This activity demonstrated how large public platforms that handle personal data still rely heavily on password-based authentication. It reinforced the importance of layered secuity measures such as MFA, session control, and user awareness to reduce cyber risks.
