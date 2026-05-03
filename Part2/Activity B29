@@ -1,0 +1,33 @@
+B29 - Find a CVE in this year and fix it using 3 different generative AI systems
+
+Objective
+The goal of this activity was to analyse a recent cybersecurity vulnerability and evaluate how different generative AI systems explain and provide solutions for it.
+
+Method
+I selected the vulunerability CVE-2024-3090 and used thress generative AI systems to analyse it. Each AI was given the same prompt to ansure consistency in comparison. The responses were then reviewed and compared.
+
+Findings
+1. Chatgpt
+- Provided a detailed explanation of the vulnerability
+- Identified it as a backdoor affecting system security
+- Recommended updating or removing compromised software versions
+2. Google Gemini
+- Gave a clear and structured overview
+- Focused on system impact and potential risks
+- Suggested patching and updating affected systems
+3. Microsoft Copilot
+- Delivered a shorter and more concise explanation
+- Identified the vulnerability and basic mitigation steps
+- Less detailed but still accurate
+
+Security principle
+This vulnerablility impacts key cybersecurity principles including:
+- Confidentiality
+- Integrity
+- Availability
+
+Outcome
+All three AI systems provided consistent information about the vulnerability and agreed that updating affected software is the primary fix. However, the level of detail varied between systems.
+
+Reflection
+This activity showed that generative AI tools can be useful for understanding cybersecurity vulnerabilities. However, it also highlighted the importance of comparing multiple sources, as different systems provide varying levels of detail and explanation.
