@@ -1,0 +1,28 @@
+B18 - Contribute to an open-source cybersecurity project
+
+Objective
+The goal of this activity is to contribute to an open-source project related to cybersecurity and understand secure development practices.
+
+Method
+I reviewed an open-source GitHub project and contributed improvements related to documentation, security awareness, and project organisation.
+
+Findings
+1. Improved project documentation to better explain secure usage practices.
+2. Identified areas where sensitive information should not be publicly exposed in repositories.
+3. Added recommendations for safer handling of credentials and configuration files.
+
+Security Principle
+This activity reinforced:
+- Secure software development practices
+- Protection of sensitive information
+- Community collaboration in cybersecurity
+- Security awareness in development environments
+
+Evidence
+- Screenshot of the GitHub repository homepage
+- Screenshot of commit history or contribution made
+- Screenshot of edited README/documentation changes
+- Notes describing the contribution and security improvements added
+
+Reflection
+This activity showed how open-source collaboration can improve cybersecurity awareness and project quality. Even small improvements such as documentation updates and security recommendations can help reduce risks in software projects.
