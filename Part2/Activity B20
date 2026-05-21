@@ -1,0 +1,29 @@
+B20 - Enhance the security of a GitHub project
+
+Objective
+The goal of this activity is to improve the security of an existing GitHub project by applying stronger security practices.
+
+Method
+I reviewed a GitHub project and identified areas where security controls and development practices could be strengthened.
+
+Findings
+- Improved recommendations for password security and credential protection.
+- Added guidance to avoid exposing API keys and sensitive configuration data publicly.
+- Suggested using environment variables and safer configuration practices to reduce accidental exposure risks.
+- Improved project awareness of secure development practices and repository management.
+
+Security Principle
+This activity reinforced:
+- Secure coding practices
+- Confidentiality of sensitive data
+- Access control and credential protection
+- Defence against accidental information exposure
+
+Evidence
+- Screenshot of GitHub repository/project
+- Screenshot of updated README or security recommendations
+- Screenshot of improved configuration examples using .env files
+- Notes summarising implemented security improvements
+
+Reflection
+This activity highlighted how improving development practices can significantly strengthen project security. It reinforced the importance of secure handling of sensitive information and following cybersecurity best practices during software development.
