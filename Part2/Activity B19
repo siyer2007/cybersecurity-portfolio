@@ -1,0 +1,28 @@
+B19 - Find and fix a vulnerability from a GitHub project
+
+Objective
+The goal of this activity is to identify and fix a potential security vulnerability in a GitHub project.
+
+Method
+I reviewed a GitHub project to identify insecure practices and implemented improvements to reduce security risks.
+
+Findings
+- Identified insecure exposure of sensitive information within configuration examples and project files.
+- Improved handling of sensitive data by recommending environment variables (.env) instead of hardcoded credentials.
+- Reviewed repository structure and improved awareness of secure coding practices.
+
+Security Principle
+This activity reinforced:
+- Confidentiality of sensitive information
+- Vulnerability identification and mitigation
+- Secure coding practices
+- Risk reduction in software development
+
+Evidence
+- Screenshot of the GitHub project before improvements
+- Screenshot of updated configuration/documentation after changes
+- Screenshot of files showing improved credential handling practices
+- Notes explaining the identified vulnerability and implemented fix
+
+Reflection
+This activity demonstrated how small vulnerabilities in repositories can create significant security risks if left unresolved. Fixing these issues improved my understanding of secure configuration management and safe development practices.
